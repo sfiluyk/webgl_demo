@@ -29,7 +29,7 @@ npm start
 yarn start
 ```
 
-Project link after run command executed [WebGL Demo](https://localhost:3000)
+Project link after run command executed [http://localhost:3000](http://localhost:3000)
 
 ## Description
 
