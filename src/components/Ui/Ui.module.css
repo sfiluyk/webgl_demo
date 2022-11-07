@@ -1,0 +1,20 @@
+.container {
+
+}
+
+.fps {
+    padding: 5px 10px;
+    text-transform: uppercase;
+    border: 1px solid #41fcfd;
+    color: #41fcfd;
+    letter-spacing: 2px;
+    background: #171636;
+    position: fixed;
+    left: 0;
+    top: 0;
+    font-size: 11px;
+}
+
+.main {
+
+}
